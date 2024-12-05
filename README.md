@@ -24,3 +24,5 @@ A search for duplicate entries is conducted to ensure data quality. Any identifi
 
 ### 8. **Generate Statistical Summary**
 A detailed statistical summary of the dataset is created, highlighting key measures such as mean, standard deviation, and percentiles. This helps to uncover patterns and trends within the data.
+
+### 9. **Analysis and Results**
